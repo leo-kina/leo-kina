@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
 - 🎨 One curiosity: **I love studying front end**
 - ✔ What am I studying?: **I am deepening my knowledge with react**
- <h3 aling="left">🤓My lenguages~</h3>
+ <h3 aling="left">🤓My languages~</h3>
 <div align="left">
  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind" /> <br><br>
   <img width="8" />
