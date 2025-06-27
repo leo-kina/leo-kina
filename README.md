@@ -8,13 +8,13 @@
 - ✔ What am I studying?: **I am deepening my knowledge with react**
  <h3 aling="left">🤓My languages~</h3>
 <div align="left">
- <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,typescript" /> <br><br>
+ <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,typescript," /> <br><br>
   <img width="8" />
 </div>
 
 <h3 aling="left">🖥️My Tools~</h3>
 <div aling="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm" /> <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" /> <br><br>
   <img width="8" />   
 </div>
 
