@@ -34,14 +34,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=leo-kina&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
----
-
 ## 🧭 Current Goals
 
 - 📚 Master React and TypeScript deeply  
