@@ -5,7 +5,6 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 
 - 🎓 I'm currently studying **Software Engineering at FIAP - São Paulo, Brazil**
-- 🎨 Fun fact: I love building beautiful front-end interfaces
 - 🌱 Recently started learning **Node.js** and exploring the back-end world
 - 💡 Always curious to learn modern tools and clean code practices
 
