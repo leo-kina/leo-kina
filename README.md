@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently studying **Software Engineering at FIAP - São Paulo, Brazil**
 - 🎨 Fun fact: I love building beautiful front-end interfaces
-- 🚀 Focused on **React, TypeScript and front-end technologies**
+- 🌱 Recently started learning **Node.js** and exploring the back-end world
 - 💡 Always curious to learn modern tools and clean code practices
 
 ---
@@ -15,12 +15,12 @@
 
 <h3 align="left">Languages & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,python" />
 </div>
 
 <h3 align="left">Tools</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,pycharm,git,github,eslint,prettier" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,eslint,prettier" />
 </div>
 
 ---
@@ -36,12 +36,9 @@
 
 ## 🧭 Current Goals
 
-- 📚 Master React and TypeScript deeply  
-- 🧩 Explore software architecture and testing  
-- 🧪 Build and maintain personal projects  
-- 🤝 Contribute to open-source communities  
-
----
+- 📚 Learn **Node.js** and understand how the back-end works  
+- 🧠 Dive deeper into **React** and **TypeScript**  
+- ⚙️ Build simple Full Stack projects to practice what I'm learning  
 
 ## 🌍 Socials
 
