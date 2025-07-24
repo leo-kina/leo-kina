@@ -19,7 +19,7 @@
 
 <h3 align="left">Tools</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,eslint,prettier" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,git,github,eslint,prettier," />
 </div>
 
 ---
