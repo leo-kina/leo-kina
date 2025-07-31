@@ -5,7 +5,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 
 - 🎓 I'm currently studying **Software Engineering at FIAP - São Paulo, Brazil**
-- 🌱 Recently started learning **Node.js** and exploring the back-end world
+- 🌱 Recently started learning **Java** and exploring the back-end world
 - 💡 Always curious to learn modern tools and clean code practices
 
 ---
@@ -14,12 +14,12 @@
 
 <h3 align="left">Languages & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,java,python" />
 </div>
 
 <h3 align="left">Tools</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,git,github,eslint,prettier," />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,figma,git,github" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 
 ## 🧭 Current Goals
 
-- 📚 Learn **Node.js** and understand how the back-end works  
+- 📚 Learn **Java** and understand how the back-end works  
 - 🧠 Dive deeper into **React** and **TypeScript**  
 - ⚙️ Build simple Full Stack projects to practice what I'm learning  
 
