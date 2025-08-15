@@ -35,7 +35,7 @@
 
 ## 🧭 Current Goals
 
-- 📚 Learn **Java** and understand how the back-end works  
+- 📚 Learn **Spring** and understand how the back-end works  
 - 🧠 Dive deeper into **React** and **TypeScript**  
 - ⚙️ Build simple Full Stack projects to practice what I'm learning  
 
