@@ -5,7 +5,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 
 - 🎓 I'm currently studying **Software Engineering at FIAP - São Paulo, Brazil**
-- 🌱 Recently started learning **Java** and exploring the back-end world
+- 🌱 Deepening my knowledge in **Spring** and exploring back-end development
 - 💡 Always curious to learn modern tools and clean code practices
 
 ---
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,java,python,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,java,python,spring, " />
 </div>
 
 <h3 align="left">Tools</h3>
@@ -35,8 +35,8 @@
 
 ## 🧭 Current Goals
 
-- 📚 Learn **Spring** and understand how the back-end works  
-- 🧠 Dive deeper into **React** and **TypeScript**  
+- 📚 Learn **Docker** and understand how the back-end works  
+- 🧠 Dive deeper into **Java** and **Spring**  
 - ⚙️ Build simple Full Stack projects to practice what I'm learning  
 
 ## 🌍 Socials
